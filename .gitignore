@@ -1,0 +1,7 @@
+chatbot-env/
+__pycache__/
+*.pyc
+*.h5
+*.pkl
+*.keras
+.DS_Store
